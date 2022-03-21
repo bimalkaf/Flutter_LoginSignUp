@@ -41,7 +41,6 @@ class _LoginScreenState extends State<LoginScreen> {
         body: Container(
           height: double.infinity,
           margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 16),
-          // color: Colors.red,
           child: Center(
             child: SingleChildScrollView(
               child: Column(
